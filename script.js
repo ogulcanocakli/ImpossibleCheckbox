@@ -20,7 +20,7 @@ const pawDuration = 0.1;
 const SOUNDS = {
   ON: new Audio('https://assets.codepen.io/605876/switch-on.mp3'),
   OFF: new Audio('https://assets.codepen.io/605876/switch-off.mp3'),
-  GROAN: new Audio('https://assets.codepen.io/605876/bear-groan.mp3') };
+  GROAN: new Audio('https://assets.codepen.io/605876/bear-groan.mp3')};
 
 SOUNDS.GROAN.playbackRate = 2;
 
